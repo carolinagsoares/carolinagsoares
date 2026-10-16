@@ -2,7 +2,7 @@
 
 **Growth & Product Analyst** based in São Paulo, Brazil.
 
-Data shows *what*. I find out *why*. 
+Data shows *what*. I find out *why*.
 
 Across 7+ years in SaaS and EdTech, in sales, product marketing, product management and data, I've worked on the same problem: getting customers to adopt a product and the business to grow. I start from the customer's pain, use data to find the cause, and turn it into a decision the team acts on.
 
@@ -17,12 +17,12 @@ Across 7+ years in SaaS and EdTech, in sales, product marketing, product managem
 
 | Project | What it shows |
 | --- | --- |
-| [Building analytics from scratch](PORTFOLIO_URL/zubs.html) | KPI definition, BI tool evaluation (4 platforms, 20+ criteria), first company dashboard |
-| [Product activation from cohort analysis](PORTFOLIO_URL/qulture-rocks.html) | Cohort analysis that raised product adoption by 25% and cut CS onboarding effort by 40% |
-| [Reactivating a corporate learning platform](PORTFOLIO_URL/frst-falconi.html) | Usage and journey analysis behind +200% activated users |
+| [Building analytics from scratch](https://carolinagsoares.github.io/zubs.html) | KPI definition, BI tool evaluation (4 platforms, 20+ criteria), first company dashboard |
+| [Product activation from cohort analysis](https://carolinagsoares.github.io/qulture-rocks.html) | Cohort analysis that raised product adoption by 25% and cut CS onboarding effort by 40% |
+| [Reactivating a corporate learning platform](https://carolinagsoares.github.io/frst-falconi.html) | Usage and journey analysis behind +200% activated users |
 | 🚧 SQL study project (coming soon) | Exploratory analysis in SQL with public data |
 
-➡️ All case studies: **[my portfolio](PORTFOLIO_URL)**
+➡️ All case studies: **[my portfolio](https://carolinagsoares.github.io)**
 
 ---
 
@@ -36,6 +36,6 @@ Across 7+ years in SaaS and EdTech, in sales, product marketing, product managem
 
 ### 📫 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/carolinagsoares/) · [Portfolio](PORTFOLIO_URL) · carolinagsoares@outlook.com
+[LinkedIn](https://www.linkedin.com/in/carolinagsoares/) · [Portfolio](https://carolinagsoares.github.io) · carolinagsoares@outlook.com
 
 🇧🇷 Portuguese (native) · 🇬🇧 English (advanced, Cambridge FCE)
