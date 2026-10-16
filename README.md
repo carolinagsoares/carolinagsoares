@@ -2,7 +2,9 @@
 
 **Growth & Product Analyst** based in São Paulo, Brazil.
 
-Data shows *what*. I find out *why*. Across 7+ years in SaaS and EdTech, in sales, product marketing, product management and data, I've worked on the same problem: getting customers to adopt a product and the business to grow. I start from the customer's pain, use data to find the cause, and turn it into a decision the team acts on.
+Data shows *what*. I find out *why*. 
+
+Across 7+ years in SaaS and EdTech, in sales, product marketing, product management and data, I've worked on the same problem: getting customers to adopt a product and the business to grow. I start from the customer's pain, use data to find the cause, and turn it into a decision the team acts on.
 
 - 📈 My analyses have driven **+200% activated users**, **+25% product adoption** and **BRL 58.2k MRR** in a product's first month
 - 🔭 Currently building a company's analytics from scratch as a Data Analyst at Zubs
